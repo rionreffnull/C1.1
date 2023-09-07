@@ -1,3 +1,5 @@
+// Youtube Video
+// https://www.youtube.com/watch?v=5Xsc7jxDTks
 
 print "Input Batasan Angka : "
 int batas_angka = System.in.newReader().readLine().toInteger()
