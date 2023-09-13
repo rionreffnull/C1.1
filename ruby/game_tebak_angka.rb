@@ -1,3 +1,4 @@
+## Youtube Video : https://www.youtube.com/watch?v=fbwZ9910mG0
 
 puts "Selamat datang di Game Tebak Angka!"
 
