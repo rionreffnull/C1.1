@@ -1,3 +1,5 @@
+## Youtube Video : https://www.youtube.com/watch?v=-LU81fWDMzY
+
 print "Inputkan Sebuah Angka : "
 $stdout.flush
 
